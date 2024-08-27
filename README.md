@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @M-Ghosh9
+- 👋 Hi, I’m Mahima Ghosh
+- Bachelors in Computer Science and Engineering
+- Masters in Human and Biological Robotics from Imperial College London
 - 👀 I’m interested in software and biological sciences
-- 🌱 I’m currently learning robotics, machine learning, deep learning, python, HTML, CSS, Big Data Analytics
-- 💞️ I’m looking to collaborate on integrating software and life sciences
+- 🌱 I’m developing my skills in Machine Learning, Deep Learning, Python, and Big Data Analytics
+- 💞️ I’m looking to collaborate on integrating Engineering and HealthTech
 - 📫 How to reach me by email mahimaghoshofficial@gmail.com
 
 <!---
