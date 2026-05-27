@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mahima Ghosh
-- Bachelors in Computer Science and Engineering
-- Masters in Human and Biological Robotics from Imperial College London
+- PhD Computational Health, Imperial College London
+- Masters in Human and Biological Robotics, Imperial College London
+- Bachelors in Computer Science and Engineering, Preidency University
 - 👀 I’m interested in Software for Healthcare/HealthTech
 - 🌱 I’m developing my skills in Machine Learning, Deep Learning, Python, and Big Data Analytics
 - 💞️ I’m looking to collaborate on integrating Engineering and Healthcare
