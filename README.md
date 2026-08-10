@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mahima Ghosh
-- PhD Computational Health, Imperial College London
+- Research Software Engineer at the Center for Health Economics and Policy Innovation (CHEPI)
+- (incoming) PhD Computational Health, Imperial College London
 - Masters in Human and Biological Robotics, Imperial College London
 - Bachelors in Computer Science and Engineering, Preidency University
 - 👀 I’m interested in Software for Healthcare/HealthTech
